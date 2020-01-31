@@ -1,2 +1,0 @@
-# my-first-time
-HELLO 
